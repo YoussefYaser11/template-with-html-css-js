@@ -19,7 +19,7 @@ body{
     transition: 0.3s;
     top: 0;
     width: 200px;
-    z-index: 999;
+    z-index: 9999;
     background-color:#fff;
     min-height: 100vh;
     -webkit-transition: 0.3s;
